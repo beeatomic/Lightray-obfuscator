@@ -5,6 +5,8 @@ includes EVERYTHING, output will be like the Lightray file.
 ts has good polymorphism, compilation into custom bytecode (ACTUALLY CUSTOM) and other stuff
 its not double chunked like luraph, but it works and is pretty fast.
 
+obfuscator has constant protection, opcode remapping (shuffling) or idk whats it called, etc
+
 it has some bugs, yes ofc it does since its just an side project ive been working on, for like, 7 months?
 doesnt fully support LUAU syntax but does LUA* syntax
 
